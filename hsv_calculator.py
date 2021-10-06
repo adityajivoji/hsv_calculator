@@ -4,7 +4,7 @@ from matplotlib import pyplot as plt
 
 # Initializing camera
 # Notice: cv.CAP_DSHOW is only used some times
-cap = cv.VideoCapture(0 + cv.CAP_DSHOW)
+cap = cv.VideoCapture(0)
 kernel = np.ones((3,3), np.uint8)
 # condition to get in the loop
 key = 0
