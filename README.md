@@ -29,3 +29,6 @@ This lets us create mask and draw contours
 
 In case if the 'mask' or the 'dilation_after_closing' has detected any region the given printers will be printed
 
+contributer:
+
+Aditya Jivoji
